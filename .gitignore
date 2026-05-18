@@ -1,0 +1,15 @@
+# Віртуальне середовище
+venv/
+python_portable/
+
+# Ключі та доступи
+.env
+token.json
+client_secret.json
+
+# База даних (у кожного клієнта має бути своя чиста база)
+hr_database.db
+
+# Кеш Python
+__pycache__/
+*.pyc

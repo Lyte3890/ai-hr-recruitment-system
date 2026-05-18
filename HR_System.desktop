@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=AI HR Agent
+Comment=Launch HR Dashboard and Bot
+Exec=./start.sh
+Path=/home/max/Downloads/HR_AGENT
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Development;

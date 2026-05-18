@@ -1,0 +1,9 @@
+aiogram==3.4.1
+groq
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pypdf
+python-dotenv
+streamlit
+pandas
