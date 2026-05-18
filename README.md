@@ -9,10 +9,10 @@ An automated, decoupled recruitment system powered by AI. This project replaces 
 <br>
 
 ### 🤖 Telegram Bot Interface (Candidate Side)
-![Bot Demo](https://via.placeholder.com/800x400.png?text=Drag+and+Drop+Your+Bot+Screenshot+Or+Video+Here)
+![Bot Demo](https://imgur.com/a/pIJayuT)
 
 ### 📊 Streamlit Web CMS (HR Management Side)
-![Dashboard Demo](https://via.placeholder.com/800x400.png?text=Drag+and+Drop+Your+Dashboard+Screenshot+Or+Video+Here)
+![Dashboard Demo](https://imgur.com/a/pv29mYn)
 
 </details>
 
